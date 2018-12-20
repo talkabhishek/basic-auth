@@ -24,3 +24,12 @@ Things you may want to cover:
 * ...
 # basic-auth
 Rails basic Auth app
+
+ Created with https://www.codementor.io/omedale/simple-approach-to-rails-5-api-authentication-with-json-web-token-cpqbgrdo6
+ 
+ Deployed to https://basic-auth-api.herokuapp.com
+ 
+ API's
+ POST https://basic-auth-api.herokuapp.com/auth/register
+ POST https://basic-auth-api.herokuapp.com/auth/login
+ GET https://basic-auth-api.herokuapp.com/test
