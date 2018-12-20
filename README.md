@@ -21,7 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
 # basic-auth
 Rails basic Auth app
 
@@ -30,6 +29,9 @@ Rails basic Auth app
  Deployed to https://basic-auth-api.herokuapp.com
  
  API's
+ 
  POST https://basic-auth-api.herokuapp.com/auth/register
+ 
  POST https://basic-auth-api.herokuapp.com/auth/login
+ 
  GET https://basic-auth-api.herokuapp.com/test
